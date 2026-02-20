@@ -123,10 +123,13 @@ Worker calls AI API
 Result stored in database
 
 login screen:
-![img.png](img.png)
+<img width="1200" height="1000" alt="Screenshot 2026-02-20 at 9 31 18 PM" src="https://github.com/user-attachments/assets/64b66991-ef92-4088-923d-2531a6df6257" />
+
 
 Ask Ai Screen:
-![img_1.png](img_1.png)
+<img width="1241" height="734" alt="Screenshot 2026-02-20 at 9 31 36 PM" src="https://github.com/user-attachments/assets/43481e6d-df2a-415b-acda-37cf8f6384ac" />
+
 
 Admin DashBoard Screen:
-![img_2.png](img_2.png)
+<img width="1171" height="795" alt="Screenshot 2026-02-20 at 9 36 27 PM" src="https://github.com/user-attachments/assets/999db121-cdfd-4ede-b840-c575523ebce5" />
+
